@@ -7,8 +7,19 @@ public class Movimiento : MonoBehaviour {
     public float velX = 0.1f;
     public float movX;
     public float inputX;
+
     public float salto = 100;
-	// Use this for initialization
+	public Transform pie;
+    public float radiopie;
+    public LayerMask suelo;
+    public bool ensuelo;
+
+    Animator animator;
+
+    void Awake(){
+       animator = GetComponent <Animator>();
+    }
+    // Use this for initialization
 	void Start () {
 		
 	}
@@ -32,7 +43,18 @@ public class Movimiento : MonoBehaviour {
             transform.localScale = new Vector3 (-1, 1, 1);
         }
 
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (inputX !=0){
+            animator.SetFloat ("velX",1);
+            }
+            else {
+            animator.SetFloat ("velX",0);
+            }
+        
+
+        ensuelo = Physics2D.OverlapCircle (pie.position, radiopie, suelo);
+        //Debug.Log (ensuelo);
+
+        if (ensuelo == true && Input.GetKeyDown(KeyCode.Space))
         {
             GetComponent<Rigidbody2D>().AddForce (new Vector2(0, salto));
         }
