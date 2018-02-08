@@ -14,6 +14,8 @@ public class Movimiento : MonoBehaviour {
     public LayerMask suelo;
     public bool ensuelo;
 
+    public bool down;
+
     Animator animator;
 
     void Awake(){
@@ -28,22 +30,23 @@ public class Movimiento : MonoBehaviour {
 	void FixedUpdate () {
 
         float inputX = Input.GetAxis("Horizontal");
+        if (!down){
+            if (inputX>0)
+            {
+                movX = transform.position.x + (inputX*velX);
+                transform.position = new Vector3 (movX, transform.position.y, 0);
+                transform.localScale = new Vector3 (1, 1, 1);
+            }
 
-        if (inputX>0)
-        {
-            movX = transform.position.x + (inputX*velX);
-            transform.position = new Vector3 (movX, transform.position.y, 0);
-            transform.localScale = new Vector3 (1, 1, 1);
+            if (inputX<0)
+            {
+                movX = transform.position.x + (inputX * velX);
+                transform.position = new Vector3 (movX, transform.position.y, 0);
+                transform.localScale = new Vector3 (-1, 1, 1);
+            }
         }
 
-        if (inputX<0)
-        {
-            movX = transform.position.x + (inputX * velX);
-            transform.position = new Vector3 (movX, transform.position.y, 0);
-            transform.localScale = new Vector3 (-1, 1, 1);
-        }
-
-        if (inputX !=0){
+        if (inputX !=0 && ensuelo){
             animator.SetFloat ("velX",1);
             }
             else {
@@ -52,11 +55,28 @@ public class Movimiento : MonoBehaviour {
         
 
         ensuelo = Physics2D.OverlapCircle (pie.position, radiopie, suelo);
-        //Debug.Log (ensuelo);
-
-        if (ensuelo == true && Input.GetKeyDown(KeyCode.Space))
+        if (ensuelo ){
+            animator.SetBool("ensuelo",true);
+             if (Input.GetKeyDown(KeyCode.Space) && !down)
         {
             GetComponent<Rigidbody2D>().AddForce (new Vector2(0, salto));
+            animator.SetBool ("ensuelo",false);
+        }
+            }
+            else{
+                animator.SetBool("ensuelo",false);
+            }
+        //Debug.Log (ensuelo);
+
+       
+
+        if (ensuelo && Input.GetKey (KeyCode.DownArrow)) {
+            animator.SetBool("down",true);
+            down = true;
+        }
+        else {
+            animator.SetBool("down",false);
+            down = false;
         }
 	}
 }
