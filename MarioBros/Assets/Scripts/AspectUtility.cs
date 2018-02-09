@@ -6,6 +6,7 @@ public class AspectUtility : MonoBehaviour {
 	static float wantedAspectRatio;
 	static Camera cam;
 	static Camera backgroundCam;
+	public Transform position;
 	
 	void Awake () {
 		cam = GetComponent<Camera>();
@@ -18,6 +19,7 @@ public class AspectUtility : MonoBehaviour {
 		}
 		wantedAspectRatio = _wantedAspectRatio;
 		SetCamera();
+		
 	}
 	
 	public static void SetCamera () {
