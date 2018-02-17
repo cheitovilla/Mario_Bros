@@ -38,7 +38,7 @@ public class CambioPersonaje : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-        //if (player1.transform.position.x>10 && canchange)
+        //if (player1.transform.position.x>43 && canchange)
         //{
         //    player2.transform.position = player1.transform.position;
         //    player1.SetActive(false);
