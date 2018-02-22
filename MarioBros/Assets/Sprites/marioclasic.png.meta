@@ -1,0 +1,3463 @@
+fileFormatVersion: 2
+guid: d4406e8e979994b87ba1d09317eaedc0
+timeCreated: 1518872777
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: marioclasic_0
+    21300002: marioclasic_1
+    21300004: marioclasic_2
+    21300006: marioclasic_3
+    21300008: marioclasic_4
+    21300010: marioclasic_5
+    21300012: marioclasic_6
+    21300014: marioclasic_7
+    21300016: marioclasic_8
+    21300018: marioclasic_9
+    21300020: marioclasic_10
+    21300022: marioclasic_11
+    21300024: marioclasic_12
+    21300026: marioclasic_13
+    21300028: marioclasic_14
+    21300030: marioclasic_15
+    21300032: marioclasic_16
+    21300034: marioclasic_17
+    21300036: marioclasic_18
+    21300038: marioclasic_19
+    21300040: marioclasic_20
+    21300042: marioclasic_21
+    21300044: marioclasic_22
+    21300046: marioclasic_23
+    21300048: marioclasic_24
+    21300050: marioclasic_25
+    21300052: marioclasic_26
+    21300054: marioclasic_27
+    21300056: marioclasic_28
+    21300058: marioclasic_29
+    21300060: marioclasic_30
+    21300062: marioclasic_31
+    21300064: marioclasic_32
+    21300066: marioclasic_33
+    21300068: marioclasic_34
+    21300070: marioclasic_35
+    21300072: marioclasic_36
+    21300074: marioclasic_37
+    21300076: marioclasic_38
+    21300078: marioclasic_39
+    21300080: marioclasic_40
+    21300082: marioclasic_41
+    21300084: marioclasic_42
+    21300086: marioclasic_43
+    21300088: marioclasic_44
+    21300090: marioclasic_45
+    21300092: marioclasic_46
+    21300094: marioclasic_47
+    21300096: marioclasic_48
+    21300098: marioclasic_49
+    21300100: marioclasic_50
+    21300102: marioclasic_51
+    21300104: marioclasic_52
+    21300106: marioclasic_53
+    21300108: marioclasic_54
+    21300110: marioclasic_55
+    21300112: marioclasic_56
+    21300114: marioclasic_57
+    21300116: marioclasic_58
+    21300118: marioclasic_59
+    21300120: marioclasic_60
+    21300122: marioclasic_61
+    21300124: marioclasic_62
+    21300126: marioclasic_63
+    21300128: marioclasic_64
+    21300130: marioclasic_65
+    21300132: marioclasic_66
+    21300134: marioclasic_67
+    21300136: marioclasic_68
+    21300138: marioclasic_69
+    21300140: marioclasic_70
+    21300142: marioclasic_71
+    21300144: marioclasic_72
+    21300146: marioclasic_73
+    21300148: marioclasic_74
+    21300150: marioclasic_75
+    21300152: marioclasic_76
+    21300154: marioclasic_77
+    21300156: marioclasic_78
+    21300158: marioclasic_79
+    21300160: marioclasic_80
+    21300162: marioclasic_81
+    21300164: marioclasic_82
+    21300166: marioclasic_83
+    21300168: marioclasic_84
+    21300170: marioclasic_85
+    21300172: marioclasic_86
+    21300174: marioclasic_87
+    21300176: marioclasic_88
+    21300178: marioclasic_89
+    21300180: marioclasic_90
+    21300182: marioclasic_91
+    21300184: marioclasic_92
+    21300186: marioclasic_93
+    21300188: marioclasic_94
+    21300190: marioclasic_95
+    21300192: marioclasic_96
+    21300194: marioclasic_97
+    21300196: marioclasic_98
+    21300198: marioclasic_99
+    21300200: marioclasic_100
+    21300202: marioclasic_101
+    21300204: marioclasic_102
+    21300206: marioclasic_103
+    21300208: marioclasic_104
+    21300210: marioclasic_105
+    21300212: marioclasic_106
+    21300214: marioclasic_107
+    21300216: marioclasic_108
+    21300218: marioclasic_109
+    21300220: marioclasic_110
+    21300222: marioclasic_111
+    21300224: marioclasic_112
+    21300226: marioclasic_113
+    21300228: marioclasic_114
+    21300230: marioclasic_115
+    21300232: marioclasic_116
+    21300234: marioclasic_117
+    21300236: marioclasic_118
+    21300238: marioclasic_119
+    21300240: marioclasic_120
+    21300242: marioclasic_121
+    21300244: marioclasic_122
+    21300246: marioclasic_123
+    21300248: marioclasic_124
+    21300250: marioclasic_125
+    21300252: marioclasic_126
+    21300254: marioclasic_127
+    21300256: marioclasic_128
+    21300258: marioclasic_129
+    21300260: marioclasic_130
+    21300262: marioclasic_131
+    21300264: marioclasic_132
+    21300266: marioclasic_133
+    21300268: marioclasic_134
+    21300270: marioclasic_135
+    21300272: marioclasic_136
+    21300274: marioclasic_137
+    21300276: marioclasic_138
+    21300278: marioclasic_139
+    21300280: marioclasic_140
+    21300282: marioclasic_141
+    21300284: marioclasic_142
+    21300286: marioclasic_143
+    21300288: marioclasic_144
+    21300290: marioclasic_145
+    21300292: marioclasic_146
+    21300294: marioclasic_147
+    21300296: marioclasic_148
+    21300298: marioclasic_149
+    21300300: marioclasic_150
+    21300302: marioclasic_151
+    21300304: marioclasic_152
+    21300306: marioclasic_153
+    21300308: marioclasic_154
+    21300310: marioclasic_155
+    21300312: marioclasic_156
+    21300314: marioclasic_157
+    21300316: marioclasic_158
+    21300318: marioclasic_159
+    21300320: marioclasic_160
+    21300322: marioclasic_161
+    21300324: marioclasic_162
+    21300326: marioclasic_163
+    21300328: marioclasic_164
+    21300330: marioclasic_165
+    21300332: marioclasic_166
+    21300334: marioclasic_167
+    21300336: marioclasic_168
+    21300338: marioclasic_169
+    21300340: marioclasic_170
+    21300342: marioclasic_171
+    21300344: marioclasic_172
+    21300346: marioclasic_173
+    21300348: marioclasic_174
+    21300350: marioclasic_175
+    21300352: marioclasic_176
+    21300354: marioclasic_177
+    21300356: marioclasic_178
+    21300358: marioclasic_179
+    21300360: marioclasic_180
+    21300362: marioclasic_181
+    21300364: marioclasic_182
+    21300366: marioclasic_183
+    21300368: marioclasic_184
+    21300370: marioclasic_185
+    21300372: marioclasic_186
+    21300374: marioclasic_187
+    21300376: marioclasic_188
+    21300378: marioclasic_189
+    21300380: marioclasic_190
+    21300382: marioclasic_191
+    21300384: marioclasic_192
+    21300386: marioclasic_193
+    21300388: marioclasic_194
+    21300390: marioclasic_195
+    21300392: marioclasic_196
+    21300394: marioclasic_197
+    21300396: marioclasic_198
+    21300398: marioclasic_199
+    21300400: marioclasic_200
+    21300402: marioclasic_201
+    21300404: marioclasic_202
+    21300406: marioclasic_203
+    21300408: marioclasic_204
+    21300410: marioclasic_205
+    21300412: marioclasic_206
+    21300414: marioclasic_207
+    21300416: marioclasic_208
+    21300418: marioclasic_209
+    21300420: marioclasic_210
+    21300422: marioclasic_211
+    21300424: marioclasic_212
+    21300426: marioclasic_213
+    21300428: marioclasic_214
+    21300430: marioclasic_215
+    21300432: marioclasic_216
+    21300434: marioclasic_217
+    21300436: marioclasic_218
+    21300438: marioclasic_219
+    21300440: marioclasic_220
+    21300442: marioclasic_221
+    21300444: marioclasic_222
+    21300446: marioclasic_223
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: marioclasic_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 534
+        width: 11
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 534
+        width: 16
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 822
+        width: 96
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_3
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 822
+        width: 160
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_4
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_5
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 826
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_6
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_7
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 810
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_8
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 810
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_9
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 810
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_10
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 808
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_11
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 808
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_12
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 808
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 790
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 790
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_15
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 782
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 782
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_17
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 778
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_18
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 776
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_19
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_20
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_21
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_22
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_23
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_24
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 798
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_25
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 798
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_26
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 798
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_27
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 750
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 750
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_29
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 750
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_30
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 750
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_31
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 750
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_32
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 776
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_33
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 752
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_34
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 752
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_35
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 746
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_36
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 746
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_37
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 744
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_38
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 744
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_39
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_40
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_41
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_42
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_43
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 748
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_44
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 738
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_45
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 738
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_46
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 738
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_47
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 738
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_48
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 738
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_49
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_50
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 752
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_51
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 746
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_52
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 744
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_53
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 712
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_54
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 712
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_55
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 712
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_56
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_57
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_58
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_59
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_60
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 718
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_61
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 694
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_62
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 694
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_63
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 700
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_64
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 700
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_65
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 700
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_66
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 700
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_67
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 700
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_68
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 722
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_69
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 722
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_70
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 684
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_71
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 684
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_72
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 682
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_73
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 682
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_74
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 700
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_75
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 708
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_76
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 708
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_77
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 708
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_78
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 684
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_79
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 682
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_80
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 674
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_81
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 674
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_82
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 674
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_83
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 690
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_84
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 656
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_85
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 656
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_86
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 656
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_87
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 656
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_88
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 660
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_89
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 598
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_90
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 648
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_91
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 648
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_92
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 658
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_93
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 658
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_94
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 658
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_95
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 658
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_96
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 666
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_97
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 666
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_98
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 666
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_99
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 650
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_100
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 650
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_101
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 650
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_102
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 620
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_103
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 636
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_104
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 636
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_105
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 636
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_106
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 650
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_107
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 652
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_108
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 630
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_109
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 656
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_110
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 616
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_111
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 614
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_112
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 620
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_113
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_114
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_115
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_116
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 618
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_117
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 622
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_118
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_119
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 608
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_120
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 608
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_121
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 620
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_122
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 624
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_123
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 624
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_124
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 630
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_125
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 632
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_126
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 596
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_127
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 596
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_128
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 534
+        width: 32
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_129
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 570
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_130
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 578
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_131
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 578
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_132
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 578
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_133
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_134
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 592
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_135
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 582
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_136
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 582
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_137
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 590
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_138
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 590
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_139
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 606
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_140
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 574
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_141
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 548
+        width: 96
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_142
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 574
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_143
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 574
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_144
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_145
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 534
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_146
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 570
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_147
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 570
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_148
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 568
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_149
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 568
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_150
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 590
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_151
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 550
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_152
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 550
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_153
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 550
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_154
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 540
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_155
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 540
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_156
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 566
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_157
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 566
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_158
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 566
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_159
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 566
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_160
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 528
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_161
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_162
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 540
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_163
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 534
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_164
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 534
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_165
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 522
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_166
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 492
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_167
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 544
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_168
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 530
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 19
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_170
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 488
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_171
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 488
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_172
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 480
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_173
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 480
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_174
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 492
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_175
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 492
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_176
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 502
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_177
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 496
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_178
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 386
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_179
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 386
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_180
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 454
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_181
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 386
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_182
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 410
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_183
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 442
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_184
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 426
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_185
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 426
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_186
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 410
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_187
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 462
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_188
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 448
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_189
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 464
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_190
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 432
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_191
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_192
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 386
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_193
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 386
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_194
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 386
+        width: 10
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_195
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 386
+        width: 4
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_196
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 386
+        width: 12
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_197
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 386
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_198
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 386
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_199
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 422
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_200
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 422
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_201
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 410
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_202
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 410
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_203
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 420
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_204
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 412
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_205
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 432
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_206
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 362
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_207
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 406
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_208
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 406
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_209
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 390
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_210
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_211
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 339
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_212
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 339
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_213
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 339
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_214
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 339
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_215
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 350
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_217
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 286
+        width: 120
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_218
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 14
+        width: 302
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_219
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_220
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 250
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_221
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 251
+        width: 114
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_222
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 57
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marioclasic_223
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 14
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
