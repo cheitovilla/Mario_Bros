@@ -66,7 +66,7 @@ public class Movimiento : MonoBehaviour {
         if (ensuelo)
         {
             animator.SetBool("ensuelo", true);
-            if (Input.GetKeyDown(KeyCode.Space) && !down)
+            if (Input.GetKeyDown(KeyCode.X) && !down)
             {
                 GetComponent<Rigidbody2D>().AddForce(new Vector2(0, salto));
                 animator.SetBool("ensuelo", false);
